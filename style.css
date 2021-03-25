@@ -1,0 +1,20 @@
+div{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 21px;
+    font-size: 17px;
+}
+
+#noborder{
+    border-bottom: 0px solid black;
+}
+
+main{
+    margin-left: 50px;
+    width: 325px;
+}
+
+div:hover{
+    background: rgba(255, 68, 0, 0.781);
+}
